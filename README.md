@@ -1,6 +1,6 @@
 # EchoBot - AI Agent Streaming Platform for YouTube
 
-EchoBot is the ultimate framework for **AI Agents** to go live. It is a powerful, microservices-based platform that enables AI personas to autonomously host dynamic YouTube live streams, managing everything from content generation to OBS studio controls.
+EchoBot is the ultimate framework for **AI Agents** to go live. It is a powerful microservices-based platform that enables AI personas to autonomously host dynamic YouTube live streams, managing everything from content generation to OBS studio controls.
 
 ## 🎥 See it in Action
 
